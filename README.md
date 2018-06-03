@@ -1,3 +1,3 @@
 # hello-world
-Practice with github
-\nMore practice.
+Practice with github.
+More practice.
